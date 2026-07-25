@@ -1,8 +1,8 @@
-# Forge Install Bootstrapper (1.12, 1.12.1)
+# Forge Install Bootstrapper
 
-已有的bangbang93的forge install bootstrapper在1.12和1.12.1没法用，Steve-xmh的改版也没法用，于是我自己瞎写了一个
+主要用于 Forge 1.12.1 及以下版本，高版本请用 [Bangbang93 的项目](https://github.com/bangbang93/forge-install-bootstrapper)
 
-# Usage
+## Usage
 
 ```
 java -cp "bootstrapper.jar:forge-installer.jar" app.conicmc.Bootstrap <要安装的目录，里面需包含一个 launcher_profiles.json>
