@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact name="forge-installer-bootstrapper:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/forge_installer_bootstrapper_jar</output-path>
+    <root id="root">
+      <element id="archive" name="forge-installer-bootstrapper.jar">
+        <element id="module-output" name="forge-installer-bootstrapper" />
+      </element>
+      <element id="library" level="project" name="forge-1.12-14.21.1.2443-installer" />
+    </root>
+  </artifact>
+</component>

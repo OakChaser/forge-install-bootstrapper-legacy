@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: app.conicmc.Bootstrap
+Class-Path: forge-1.12-14.21.1.2443-installer.jar
+
